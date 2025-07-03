@@ -1,0 +1,39 @@
+.white{
+    background-color: aqua;
+    text-align: center;
+    border: 24px rgba(243, 14, 14, 0.463);
+    margin: 10px;
+    padding: 20px;
+    font-size: 40px;
+    
+}
+
+.photo{
+    height: 500px;
+    background-image:url(Exlore.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-position: center;
+    
+}
+
+.photo{
+    color: white;
+    font-weight: bold;
+    text-align: center;t
+    margin: 20px;
+    padding: 10px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.list{
+    background-color: aqua;
+    text-align: center;
+    border: 50px tomato;
+    margin:10px;
+    padding: 10px;
+    font-size: 20px;
+}
